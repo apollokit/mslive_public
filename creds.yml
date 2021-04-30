@@ -1,0 +1,7 @@
+mysql_host: <>
+mysql_user: <>
+mysql_passwd: <>
+# find here: https://www.reddit.com/prefs/apps
+praw_client_id: <>
+praw_client_secret: <>
+praw_user_agent: <>
